@@ -31,7 +31,7 @@ What will you find in this repository?
   Webiste: https://tomazrg.github.io/paper_complex_profit/
 
 ## ⚙️ What am I developing?
-*Soybean 🌱:** Target spot - Disease-weather analyses · Disease risk prediction · Yield loss estimations 
+**Soybean 🌱:** Target spot - Disease-weather analyses · Disease risk prediction · Yield loss estimations 
 
 **Rice 🍚:** False smut - Remote sensing · Kernel smut - Remote sensing · Sheath blight - Profitability
 
