@@ -3,10 +3,12 @@
 
 I’m Ricardo G. Tomaz, a Brazilian **PhD Student in Plant Pathology (UFV)** and I am doing my **PhD Sandwich Program at LSU (EUA)**. I have strong expertise in crop disease epidemiology, predictive modelling, and yield-loss simulation in crops such as soybean, wheat, and maize. In addition, I have worked with remote sensing to identify and quantify important disease in rice.
 
-Neste perfil você encontra:
-- Projetos e scripts de análise (R/Python)
-- Experimentos com visão computacional (YOLO, classificação de sementes)
-- Tutoriais/notebooks e preprints
+What can you find on this repository?
+- Epidemiology
+- Mathematical modeling
+- Stochastic simulation
+- Profitability
+- Disease-associated yield losses analyses
 
 ## 📫 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-gomes-tom%C3%A1z-0137ba189/)
