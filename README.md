@@ -6,8 +6,8 @@ I’m Ricardo G. Tomaz, a Brazilian **PhD Student in Plant Pathology (UFV)** and
 What can you find on this repository?
 - Epidemiology
 - Mathematical modeling
-- Stochastic simulation
-- Profitability
+- Stochastic simulations
+- Profitability analyses
 - Disease-associated yield losses analyses
 
 ## 📫 Onde me encontrar
@@ -16,8 +16,13 @@ What can you find on this repository?
 [![Website / GitHub](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomazrg)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tomazrg)
 
-## 🏆 Preprints / Projetos em destaque
-- *When does fungicide use pay off in maize? Evidence from low foliar disease pressure environments in southern Brazil.*  
+## 🏆 Awards
+
+- *Stochastic modeling of yield loss due to bacterial leaf streak in corn*  (**Best in Epidemiology**)
+  Paper: [https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2026.00391 ](https://link.springer.com/article/10.1007/s10658-025-03101-5) 
+  Página: [https://tomazrg.github.io/paper_complex_profit/](https://tomazrg.github.io/paper-BLS-corn-damage/)
+
+- *When does fungicide use pay off in maize? Evidence from low foliar disease pressure environments in southern Brazil*  (**Best in Plant Pathology**)
   Preprint: https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2026.00391  
   Página: https://tomazrg.github.io/paper_complex_profit/
 
