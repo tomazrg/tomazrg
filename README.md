@@ -35,5 +35,5 @@ What will you find in this repository?
 
 **Rice 🍚:** False smut - Remote sensing · Kernel smut - Remote sensing · Sheath blight - Profitability
 
-**Maize 🌽:** Disease complex - Profitability
+**Maize 🌽:** Foliar diseases - Profitability
 
