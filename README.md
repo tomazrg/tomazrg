@@ -49,5 +49,3 @@ What will you find in this repository?
 ![Metrics](https://metrics.lecoq.io/tomazrg?template=classic&config.timezone=America/Chicago)
 -->
 
-## 🔖 Pinned
-- Fixe (pin) seus 6 repositórios principais para aparecerem aqui em destaque.
