@@ -7,10 +7,10 @@ Neste perfil você encontra:
 - Tutoriais/notebooks e preprints
 
 ## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/ricardo-gomes-tom%C3%A1z-0137ba189/?skipRedirect=true))
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)]([https://scholar.google.com/citations?user=SEU_ID](https://www.researchgate.net/profile/Ricardo-Gomes-Tomaz))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/ricardo-gomes-tom%C3%A1z-0137ba189/?skipRedirect=true)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)]([https://scholar.google.com/citations?user=SEU_ID](https://www.researchgate.net/profile/Ricardo-Gomes-Tomaz)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://tomazrg.github.io)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://twitter.com/SEU_USUARIO](https://x.com/tomazrg))
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://twitter.com/SEU_USUARIO](https://x.com/tomazrg)
 
 ## 🏆 Preprints / Projetos em destaque
 - *When does fungicide use pay off in maize? Evidence from low foliar disease pressure environments in southern Brazil.*  
