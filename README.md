@@ -1,7 +1,7 @@
 
-# 👋 Hello, my name is Ricardo (tomazrg)
+# 👋 Hello, my name is Ricardo Gomes Tomáz
 
-I’m Ricardo G. Tomaz, a Brazilian **PhD Student in Plant Pathology (UFV)** and I am doing my **PhD Sandwich Program at LSU (EUA)**. I have strong expertise in crop disease epidemiology, predictive modelling, and yield-loss simulation in crops such as soybean, wheat, and maize. In addition, I have worked with remote sensing to identify and quantify important disease in rice.
+I am a Brazilian **PhD Student in Plant Pathology (UFV)** and I am doing my **PhD Sandwich Program at LSU (EUA)**. I have strong expertise in crop disease epidemiology, predictive modelling, and yield-loss simulation in crops such as soybean, wheat, and maize. In addition, I have worked with remote sensing to identify and quantify important disease in rice.
 
 What can you find on this repository?
 - Epidemiology
@@ -22,13 +22,13 @@ What can you find on this repository?
 
   Paper: https://link.springer.com/article/10.1007/s10658-025-03101-5
   
-  Página: https://tomazrg.github.io/paper-BLS-corn-damage/
+  Website: https://tomazrg.github.io/paper-BLS-corn-damage/
 
 - *When does fungicide use pay off in maize? Evidence from low foliar disease pressure environments in southern Brazil*  (**Best in Plant Pathology**)
   
   Preprint: https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2026.00391
   
-  Página: https://tomazrg.github.io/paper_complex_profit/
+  Webiste: https://tomazrg.github.io/paper_complex_profit/
 
 ## ⚙️ Tecnologias
 **Languages:** R · Python · Bash  
