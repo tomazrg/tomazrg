@@ -20,12 +20,13 @@ What can you find on this repository?
 
 - *Stochastic modeling of yield loss due to bacterial leaf streak in corn*  (**Best in Epidemiology**)
 
-  Paper: https://link.springer.com/article/10.1007/s10658-025-03101-5 
+  Paper: https://link.springer.com/article/10.1007/s10658-025-03101-5
+  
   Página: https://tomazrg.github.io/paper-BLS-corn-damage/
 
 - *When does fungicide use pay off in maize? Evidence from low foliar disease pressure environments in southern Brazil*  (**Best in Plant Pathology**)
   
-  Preprint: https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2026.00391  
+  Preprint: https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2026.00391
   Página: https://tomazrg.github.io/paper_complex_profit/
 
 ## ⚙️ Tecnologias
