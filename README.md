@@ -33,7 +33,7 @@ What will you find in this repository?
 ## ⚙️ What am I developing?
 **Soybean 🌱:** Target spot - Disease-weather analyses · Disease risk prediction · Yield loss estimations 
 
-**Rice 🍚:** False smut - Remote sensing · Kernel smut - Remote sensing · Sheath blight - Profitability
+**Rice 🍚:** False smut - Remote sensing · Kernel smut - Remote sensing
 
 **Maize 🌽:** Foliar diseases - Profitability
 
