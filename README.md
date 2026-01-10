@@ -28,7 +28,7 @@ What will you find in this repository?
   
   Preprint: https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2026.00391
   
-  Webiste: https://tomazrg.github.io/paper_complex_profit/
+  Website: https://tomazrg.github.io/paper_complex_profit/
 
 ## ⚙️ What am I developing?
 **Soybean 🌱:** Target spot - Disease-weather analyses · Disease risk prediction · Yield loss estimations 
