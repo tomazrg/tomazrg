@@ -3,7 +3,7 @@
 
 I am a Brazilian **PhD Student in Plant Pathology (UFV)** and I am doing my **PhD Sandwich Program at LSU (EUA)**. I have strong expertise in crop disease epidemiology, predictive modelling, and yield-loss simulation in crops such as soybean, wheat, and maize. In addition, I have worked with remote sensing to identify and quantify important disease in rice.
 
-What can you find on this repository?
+What will you find in this repository?
 - Epidemiology
 - Mathematical modeling
 - Stochastic simulations
