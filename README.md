@@ -10,7 +10,7 @@ What can you find on this repository?
 - Profitability analyses
 - Disease-associated yield losses analyses
 
-## 📫 Onde me encontrar
+## 📫 How can you find me?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-gomes-tom%C3%A1z-0137ba189/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ricardo-Gomes-Tomaz)
 [![Website / GitHub](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomazrg)
@@ -27,6 +27,7 @@ What can you find on this repository?
 - *When does fungicide use pay off in maize? Evidence from low foliar disease pressure environments in southern Brazil*  (**Best in Plant Pathology**)
   
   Preprint: https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2026.00391
+  
   Página: https://tomazrg.github.io/paper_complex_profit/
 
 ## ⚙️ Tecnologias
