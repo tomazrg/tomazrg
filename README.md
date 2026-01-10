@@ -1,4 +1,4 @@
-# 👋 Hello, my name is Ricardo (tomazrg)
+# 👋 Hello, my name is Ricardo Gomes Tomaz
 
 Sou **Research Assistant (Visiting)** trabalhando com **rice phenotyping**, análise de **imagens** e **semente/qualidade** (LSU).  
 Neste perfil você encontra:
