@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, my name is Ricardo Gomes Tomáz 
 
 
-I am a Brazilian **PhD Student in Plant Pathology (UFV)** and I am doing my **PhD Sandwich Program at LSU (EUA)**. I have strong expertise in crop disease epidemiology, predictive modelling, and yield-loss simulation in crops such as soybean, wheat, rice and maize. In addition, I have worked with remote sensing to identify and quantify important diseases in rice.
+I am a Brazilian **PhD Student in Plant Pathology at UFV (BRA)** and I am doing my **PhD Sandwich Program at LSU (EUA)**. I have strong expertise in crop disease epidemiology, predictive modelling, and yield-loss simulation in crops such as soybean, wheat, rice and maize. In addition, I have worked with remote sensing to identify and quantify important diseases in rice.
 
 What will you find in this repository?
 - Epidemiology
