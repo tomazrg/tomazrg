@@ -36,5 +36,5 @@ What will you find in this repository?
 
 **Rice 🍚:** False smut - Remote sensing · Kernel smut - Remote sensing · Sheath blight - Disease control / Yield loss estimations
 
-**Maize 🌽:** Foliar diseases - Profitability analyses
+**Maize 🌽:** Foliar diseases - Profitability analyses · Nematodes - Spatial distribution / Impact of environmental and cultural drivers
 
