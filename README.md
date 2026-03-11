@@ -38,4 +38,4 @@ What will you find in this repository?
 
 **Maize 🌽:** Foliar diseases - Profitability analyses · Nematodes - Spatial distribution / Impact of environmental and cultural drivers
 
-                                                                         **Jesus is the way**
+                                                                      JESUS IS THE WAY !
