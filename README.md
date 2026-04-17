@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, my name is Ricardo Gomes Tomáz 
 
-<img src="https://raw.githubusercontent.com/tomazrg/profile/main/background.jpg" width="100%" />
+<img src="https://github.com/tomazrg/profile/blob/main/background.jpg?raw=true" width="100%" />
 
 I am a Brazilian **PhD Student in Plant Pathology at UFV (BRA)** and I am doing my **PhD Sandwich Program at LSU (EUA)**. I have strong expertise in crop disease epidemiology, predictive modeling, and yield-loss simulation in crops such as soybean, wheat, rice and maize. In addition, I have worked with remote sensing to identify and quantify important diseases in rice.
 
